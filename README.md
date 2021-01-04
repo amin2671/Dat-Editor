@@ -12,4 +12,4 @@ If the former action is done, you can only perform 4 operations, input using a s
 C - create a new item; \
 R - read an existing item; \
 U - update an existing item; \
-D - delete an existing item. \
+D - delete an existing item. 
